@@ -1,7 +1,6 @@
-# WATER-DONATE
-## Copyright © 2020 Antypov Anton. All rights reserved.
-
-![Образец](https://repository-images.githubusercontent.com/286788840/0e3d4680-dc07-11ea-9f77-d023ada53255)
+## CS:GO donate system
+- **[Stable-релиз (1.1.5.3)](https://github.com/ahtohx-it/w-donate/archive/release_1153.zip)**
+#### Copyright © 2020 Antypov Anton. All rights reserved.
 
 A small system for implementing in-game purchases on "CS: GO" servers.
 
