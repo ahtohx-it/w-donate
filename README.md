@@ -12,3 +12,9 @@ Hello to everyone who reads this. Not so long ago I became interested in server 
 - Install the script (/install) and update it (/update).
 - We customize to fit your needs.
 - And at the end we enjoy life)
+
+### Modules
+| Name of module | What does this module do |
+|:--------------------:|-------------|
+|**online-list**     |Adds a general list of players.|
+|**Visitors**        |Adds a list of visitors to the home page of the site.|
