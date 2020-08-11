@@ -16,5 +16,5 @@ Hello to everyone who reads this. Not so long ago I became interested in server 
 ### Modules
 | Name of module | What does this module do |
 |:--------------------:|-------------|
-|**online-list**     |Adds a general list of players.|
+|**Online-list**     |Adds a general list of players.|
 |**Visitors**        |Adds a list of visitors to the home page of the site.|
