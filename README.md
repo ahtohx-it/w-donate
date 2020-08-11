@@ -1,5 +1,5 @@
 # WATER-DONATE
-![Образец](http://s09.radikal.ru/i182/1610/5f/e56ed82e77f8t.jpg)
+                  ![Образец](http://s09.radikal.ru/i182/1610/5f/e56ed82e77f8t.jpg)
 
 A small system for implementing in-game purchases on "CS: GO" servers.
 
