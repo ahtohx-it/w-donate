@@ -5,3 +5,10 @@
 A small system for implementing in-game purchases on "CS: GO" servers.
 
 Hello to everyone who reads this. Not so long ago I became interested in server building "CS: GO". After a long research, I discovered that there are quite a few analogs for selling in-game privileges and decided to fix it!
+
+*Installation instructions*
+- Download the required version.
+- Uploading files to web hosting.
+- Install the script (/install) and update it (/update).
+- We customize to fit your needs.
+- And at the end we enjoy life)
