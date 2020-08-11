@@ -1,5 +1,4 @@
 <?php
-
-	print("Привет мир!");
-
+	require ("inc/config.php");
+	include 'pages/main.php';
 ?>
