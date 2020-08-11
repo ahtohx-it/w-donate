@@ -1,5 +1,5 @@
-## WATER-DONATE
-- **[Stable-релиз (1.1.5.3)](https://github.com/ahtohx-it/w-donate/archive/release_1153.zip)**
+## WATER-DONATE/ahtohx-it/w-donate/archive/master.zip
+- **[Master-релиз (1.0)](https://github.com/ahtohx-it/w-donate/archive/master.zip)**
 #### Copyright © 2020 Antypov Anton. All rights reserved.
 
 A small system for implementing in-game purchases on "CS: GO" servers.
