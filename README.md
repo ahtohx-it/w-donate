@@ -1,4 +1,4 @@
-## CS:GO donate system
+## WATER-DONATE
 - **[Stable-релиз (1.1.5.3)](https://github.com/ahtohx-it/w-donate/archive/release_1153.zip)**
 #### Copyright © 2020 Antypov Anton. All rights reserved.
 
