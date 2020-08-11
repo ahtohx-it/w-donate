@@ -1,4 +1,4 @@
-## WATER-DONATE/ahtohx-it/w-donate/archive/master.zip
+## WATER-DONATE
 - **[Master-релиз (1.0)](https://github.com/ahtohx-it/w-donate/archive/master.zip)**
 #### Copyright © 2020 Antypov Anton. All rights reserved.
 
