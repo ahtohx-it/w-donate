@@ -1,4 +1,5 @@
-# WATER-DONATE ! Copyright © 2020 Antypov Anton. All rights reserved.
+# WATER-DONATE
+## Copyright © 2020 Antypov Anton. All rights reserved.
 
 ![Образец](https://repository-images.githubusercontent.com/286788840/0e3d4680-dc07-11ea-9f77-d023ada53255)
 
